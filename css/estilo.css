@@ -1,26 +1,27 @@
+h1 {
+    color: darkblue;
+    /* se le cambia la propiedad al titulo*/
+}
 
-h1{
-
-    color:darkblue;    /* se le cambia la propiedad al titulo*/
-
-} /*se llaman a las etiquetas*/
-
-h2{
-
+/*se llaman a las etiquetas*/
+h2 {
     color: brown;
 }
 
-h3{
+h3 {
     color: blueviolet;
 }
 
-.unico{
+.unico {
     color: chartreuse;
 }
-span{
+
+span {
     color: red;
-    font-weight: bold;/*negrilla*/
+    font-weight: bold;
+    /*negrilla*/
 }
-h4{
+
+h4 {
     color: indigo;
 }
